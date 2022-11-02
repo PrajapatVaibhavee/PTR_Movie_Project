@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T19:59:17 IST" name="Default suite" finished-at="2022-11-02T19:59:39 IST" duration-ms="22186">
+    <groups>
+    </groups>
+    <test started-at="2022-11-02T19:59:17 IST" name="Default test" finished-at="2022-11-02T19:59:39 IST" duration-ms="22186">
+      <class name="module1_TestClass.Pushpa_The_Rise_IMDB_TestClass">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:module1_TestClass.Pushpa_The_Rise_IMDB_TestClass@7a419da4]" started-at="2022-11-02T19:59:17 IST" name="OpenBrowser" finished-at="2022-11-02T19:59:33 IST" duration-ms="16095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="IMDB_Home_Page()[pri:0, instance:module1_TestClass.Pushpa_The_Rise_IMDB_TestClass@7a419da4]" started-at="2022-11-02T19:59:33 IST" name="IMDB_Home_Page" finished-at="2022-11-02T19:59:33 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IMDB_Home_Page -->
+        <test-method signature="verifyPushpa_the_rise_IMDB_CountryOfOrigin()[pri:0, instance:module1_TestClass.Pushpa_The_Rise_IMDB_TestClass@7a419da4]" started-at="2022-11-02T19:59:33 IST" name="verifyPushpa_the_rise_IMDB_CountryOfOrigin" finished-at="2022-11-02T19:59:35 IST" duration-ms="1986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPushpa_the_rise_IMDB_CountryOfOrigin -->
+        <test-method signature="verifyPushpa_the_rise_IMDB_ReleseDate()[pri:0, instance:module1_TestClass.Pushpa_The_Rise_IMDB_TestClass@7a419da4]" started-at="2022-11-02T19:59:35 IST" name="verifyPushpa_the_rise_IMDB_ReleseDate" finished-at="2022-11-02T19:59:35 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPushpa_the_rise_IMDB_ReleseDate -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:module1_TestClass.Pushpa_The_Rise_IMDB_TestClass@7a419da4]" started-at="2022-11-02T19:59:35 IST" name="CloseBrowser" finished-at="2022-11-02T19:59:39 IST" duration-ms="3807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- module1_TestClass.Pushpa_The_Rise_IMDB_TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
